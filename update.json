@@ -1,0 +1,9 @@
+{
+  "versions": {
+    "game": {
+      "v0.2": {
+        "path": "https://github.com/SAVTcom/rpgGame/raw/main/v0.2/v0.2.zip"
+      }
+    }
+  }
+}
