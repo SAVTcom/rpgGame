@@ -1,0 +1,17 @@
+{
+  "versions": {
+    "game": {
+      "v0.2": {
+        "path": "https://github.com/SAVTcom/rpgGame/raw/main/v0.2/v0.2.zip"
+      },
+      "v0.3":{
+        "path":"https://github.com/SAVTcom/rpgGame/raw/main/v0.3/v0.3.zip"
+      }
+    },
+     "launcher":{
+        "path":"https://github.com/SAVTcom/rpgGame/raw/main/launcher.zip",
+        "v":3
+     }
+  },
+  "_comment":"THIS HUITA NOT NORMAL WORK"
+}
