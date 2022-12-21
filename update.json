@@ -27,6 +27,9 @@
       },
       "v0.9":{
         "path":"https://github.com/SAVTcom/rpgGame/raw/main/v0.9/v0.9.zip"
+      },
+      "v0.9.1":{
+        "path":"https://github.com/SAVTcom/rpgGame/raw/main/v0.9.1/v0.9.1.zip"
       }
     },
      "launcher":{
